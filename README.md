@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there! ⸜(｡˃ ᵕ ˂ )⸝♡ My name is 「 ✨ Aom ✨ 」
+A student from KOSEN KMITL, computer engineering department.
 
-<!--
-**Ahqmy28/Ahqmy28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me 😎
+- 🌃 From Chiang Mai, Thailand
+- 📩 Contact me at 67991028@kmitl.ac.th
+- 🎮 Gaming is a fun hobby
+## What am I learing? 📝
+- 🌟 Python
+- 🌟 Git & Github
+- 🌟 Solving problems using computational thinking
+## Languages and Tools 🧰
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+## GitHub Stats 💚
+![Ahqmy28's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahqmy28&show_icons=true&theme=radical)
+## Top Languages 🐍
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahqmy28&layout=compact&theme=radical)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
