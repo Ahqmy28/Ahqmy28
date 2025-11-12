@@ -4,7 +4,7 @@ A student from KOSEN KMITL | Computer engineering | ♡(˃͈ ˂͈ )
 ## About me 😎
 - 🌃 From Chiang Mai, Thailand
 - 📩 Contact me at 67991028@kmitl.ac.th
-- 🎮 Garena RoV, Valorant, Honkai: Star Rail
+- 🎮 Garena RoV, VALORANT, Honkai: Star Rail
 ## What am I learing? 📝
 - 🌟 Python
 - 🌟 Git & Github
