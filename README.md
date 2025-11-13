@@ -2,9 +2,9 @@
 2nd grade student from KOSEN KMITL | Computer engineering | Interested in Game development ♡(˃͈ ˂͈ )
 
 ## About me 😎
-- 🌃 From Chiang Mai, Thailand
+- 🌃 Based in Thailand
 - 📩 Contact me at 67991028@kmitl.ac.th
-- 🎮 Garena RoV, VALORANT, Honkai: Star Rail
+- 🎮 Gaming as favorite hobby
 ## What am I learing? 📝
 - 🌟 Python
 - 🌟 Git & Github
