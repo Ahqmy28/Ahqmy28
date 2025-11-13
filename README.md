@@ -1,5 +1,5 @@
 # Hi there! ⸜(｡˃ ᵕ ˂ )⸝♡ My name is 「 ✨ Aom ✨ 」
-2nd grade student from KOSEN KMITL | Computer engineering | Interested in Game development ♡(˃͈ ˂͈ )
+2nd year student from KOSEN KMITL | Computer engineering | Interested in Game development ♡(˃͈ ˂͈ )
 
 ## About me 😎
 - 🌃 Based in Thailand
